@@ -8,6 +8,6 @@ entries:
     digest: d55987971a09342320195ecc64a4a62a48794da64cc37fc9ebee773cc86b2167
     name: lifter
     urls:
-    - https://github.com/magneticio/charts/lifter-0.1.0.tgz
+    - https://github.com/magneticio/charts/raw/gh-pages/lifter-0.1.0.tgz
     version: 0.1.0
 generated: 2018-10-29T14:22:52.615685+01:00
