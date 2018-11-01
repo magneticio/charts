@@ -3,11 +3,11 @@ entries:
   lifter:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-10-29T14:22:52.61681+01:00
+    created: 2018-11-01T11:29:07.662521+01:00
     description: A Helm chart for Kubernetes
-    digest: d55987971a09342320195ecc64a4a62a48794da64cc37fc9ebee773cc86b2167
+    digest: 5874186c37603fcbc94f7de6249977f8b5a13cca34b46698e734d7d84fbaaf1c
     name: lifter
     urls:
     - https://github.com/magneticio/charts/raw/gh-pages/lifter-0.1.0.tgz
     version: 0.1.0
-generated: 2018-10-29T14:22:52.615685+01:00
+generated: 2018-11-01T11:29:07.65972+01:00
