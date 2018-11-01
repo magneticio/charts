@@ -1,4 +1,4 @@
-# charts
+# Helm charts
 Vamp.io kubernetes charts repository
 
 Add this repo to Helm:
